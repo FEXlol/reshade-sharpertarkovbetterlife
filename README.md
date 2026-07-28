@@ -43,5 +43,5 @@ See the [ReShade Forum](https://reshade.me/forum) and [Discord](https://discord.
 
 ## License
 
-ReShade is licensed under the terms of the [BSD 3-clause license](https://github.com/FEXlol/reshade-sharpertarkovbetterlife/blob/main/RESHADE-LICENSE.md).
+ReShade is licensed under the terms of the [BSD 3-clause license]([LICENSE.md](https://github.com/FEXlol/reshade-sharpertarkovbetterlife/blob/main/RESHADE-LICENSE.md)).\
 Some source code files are dual-licensed and are also available under the terms of the MIT license, when stated as such at the top of those files.
